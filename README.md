@@ -9,4 +9,5 @@ A colored border should appear, along with tabs situated around the sides of the
 Tap and hold any of these colored tabs and drag out or inwards
 Alternatively, tap the menu button and hit “Edit” before following the above instructions
 Home screen widgets are broadcast receivers which provide interactive components
-They are primarily used on the Android home screen. 
+They are primarily used on the Android home screen.
+They typically display some kind of data and allow the user to perform actions with them.
